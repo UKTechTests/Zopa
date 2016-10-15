@@ -1,0 +1,8 @@
+c:\Users\buono\OneDrive\documents\visual studio 2012\Projects\Zopa\ZopaTest\bin\Debug\market_data.csv
+c:\Users\buono\OneDrive\documents\visual studio 2012\Projects\Zopa\ZopaTest\bin\Debug\ZopaTest.dll
+c:\Users\buono\OneDrive\documents\visual studio 2012\Projects\Zopa\ZopaTest\bin\Debug\ZopaTest.pdb
+c:\Users\buono\OneDrive\documents\visual studio 2012\Projects\Zopa\ZopaTest\bin\Debug\Zopa.exe
+c:\Users\buono\OneDrive\documents\visual studio 2012\Projects\Zopa\ZopaTest\bin\Debug\Zopa.pdb
+c:\Users\buono\OneDrive\documents\visual studio 2012\Projects\Zopa\ZopaTest\obj\Debug\ZopaTest.csprojResolveAssemblyReference.cache
+c:\Users\buono\OneDrive\documents\visual studio 2012\Projects\Zopa\ZopaTest\obj\Debug\ZopaTest.dll
+c:\Users\buono\OneDrive\documents\visual studio 2012\Projects\Zopa\ZopaTest\obj\Debug\ZopaTest.pdb

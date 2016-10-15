@@ -1,0 +1,6 @@
+c:\users\buono\onedrive\documents\visual studio 2012\Projects\Zopa\Zopa\bin\Debug\market_data.csv
+c:\users\buono\onedrive\documents\visual studio 2012\Projects\Zopa\Zopa\bin\Debug\Zopa.exe.config
+c:\users\buono\onedrive\documents\visual studio 2012\Projects\Zopa\Zopa\bin\Debug\Zopa.exe
+c:\users\buono\onedrive\documents\visual studio 2012\Projects\Zopa\Zopa\bin\Debug\Zopa.pdb
+c:\users\buono\onedrive\documents\visual studio 2012\Projects\Zopa\Zopa\obj\Debug\Zopa.exe
+c:\users\buono\onedrive\documents\visual studio 2012\Projects\Zopa\Zopa\obj\Debug\Zopa.pdb

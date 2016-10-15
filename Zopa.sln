@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zopa", "Zopa\Zopa.csproj", "{66F8636E-7929-4A05-8E16-9D3C0C6882DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZopaTest", "ZopaTest\ZopaTest.csproj", "{BF76B912-92A1-4A9E-A38B-01EEA533D5DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66F8636E-7929-4A05-8E16-9D3C0C6882DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F8636E-7929-4A05-8E16-9D3C0C6882DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F8636E-7929-4A05-8E16-9D3C0C6882DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F8636E-7929-4A05-8E16-9D3C0C6882DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF76B912-92A1-4A9E-A38B-01EEA533D5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF76B912-92A1-4A9E-A38B-01EEA533D5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF76B912-92A1-4A9E-A38B-01EEA533D5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF76B912-92A1-4A9E-A38B-01EEA533D5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
